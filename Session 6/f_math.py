@@ -30,6 +30,6 @@ while loop:
             print(score)
 loop = False
 
-
+print(score)
 
 
