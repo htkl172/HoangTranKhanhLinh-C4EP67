@@ -1,0 +1,4 @@
+git init  #TAO CAMERA
+git add . #CHUP ANH
+git commit -m 'descriptive message' #LUU ANH
+git push origin master #POST
